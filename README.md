@@ -30,3 +30,6 @@ The following details about the problem are provided:
 7. The containers should be balanced in a way that is evenly distributed. The longitudinal center of gravity should be as close as possible to the middle of the container section of the ship. Secondly, the latitudinal center of gravity should be as much to the middle as possible. Note that the center of gravity can be computed as the weighted sum of the centroids of the containers, where the weights are the total weight of the containers.
 
 ![demo_fig](https://github.com/RylinnM/ShipLoading-Optimization/assets/114656169/fdc2bf60-e189-45ce-b032-eace87c500a1)
+
+## Instruction
+pending...
